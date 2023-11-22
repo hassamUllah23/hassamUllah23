@@ -3,6 +3,9 @@
 
 Software Engineer professional experience in Web Development in React, Node.js, Nest.js and MongoDB.
 
+Email: malikhassamullah1@gmail.com
+Phone: +92 310 5187828
+LinkedIn: https://www.linkedin.com/in/hassam-ullah/
 
 ### Programming Languages 🌐
 
