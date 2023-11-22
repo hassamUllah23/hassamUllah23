@@ -19,6 +19,6 @@ Software Engineer professional experience in Web Development in React, Node.js, 
 You can find and get touch with me on these accounts!
 
 | [<img src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0" alt="instagram logo" width="24">](https://www.instagram.com/hassam_ullah/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/21012810/hassam-ullah)
-|---|---|---|---|---|---|---|---|
+|---|---|
 
 ---
